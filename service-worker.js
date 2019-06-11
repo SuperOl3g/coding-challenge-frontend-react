@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://superol3g.github.io/coding-challenge-frontend-react/precache-manifest.6dd765e2ccfd5c492f5eadd0515bea8f.js"
+  "https://superol3g.github.io/coding-challenge-frontend-react/precache-manifest.0be7c91b66255aa14804f1e9a3bb88a4.js"
 );
 
 self.addEventListener('message', (event) => {
